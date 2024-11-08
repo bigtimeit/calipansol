@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: n/a\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: n/a\n"
+"PO-Revision-Date: 2024-02-05 06:21+0000\n"
+"Last-Translator: Matthias Günter <matthias.guenter@devowl.io>\n"
+"Language-Team: Spanish (formal) <https://translate.devowl.io/projects/"
+"devowl-wp-utils-backend-php/develop/es@formal/>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.3.1\n"
+
+#. translators:
+#: Localization.php:455
+msgid ""
+"Some language packs could not be downloaded for the textdomain %1$s (Error: "
+"%2$s, Endpoint: %3$s)."
+msgstr ""
+"Algunos paquetes de idiomas no se han podido descargar para el textdomain "
+"%1$s (Error: %2$s, Endpoint: %3$s)."
+
+#: Localization.php:506
+msgid "Retry"
+msgstr "Reintentar"
+
+#: RateLimitNotice.php:61
+msgid " and "
+msgstr " y "
+
+#. translators:
+#: RateLimitNotice.php:68
+msgid ""
+"Your WordPress unexpectedly requests the license server and cloud services "
+"of <strong>%1$s</strong> exceptionally often (URL: <code>%3$s</code>). This "
+"indicates a misconfiguration of your WordPress system, which can also affect "
+"the loading speed of your website or cause malfunctions. Please check with "
+"your technical contact what is configured incorrectly! Alternatively, you "
+"can <a href=\"%2$s\" target=\"_blank\">open a support ticket</a> at the "
+"plugin manufacturer support."
+msgstr ""
+"Su WordPress solicita inesperadamente el servidor de licencias y los "
+"servicios en la nube de <strong>%1$s</strong> con una frecuencia excepcional "
+"(URL: <code>%3$s</code> ). Esto indica una configuración incorrecta de su "
+"sistema WordPress, que también puede afectar a la velocidad de carga de su "
+"sitio web o provocar fallos de funcionamiento. Por favor, compruebe con su "
+"contacto técnico qué es lo que está mal configurado. Alternativamente, puede "
+"<a href=\"%2$s\" target=\"_blank\">abrir un ticket de soporte</a> en el "
+"soporte del fabricante del plugin."
+
+#: RateLimitNotice.php:73
+msgid "https://devowl.io/support/"
+msgstr "https://devowl.io/support/"
+
+#: RateLimitNotice.php:82
+msgid ""
+"I have solved the problem (hide the message until the next occurrence of the "
+"error)"
+msgstr ""
+"He resuelto el problema (ocultar el mensaje hasta la siguiente aparición del "
+"error)"
+
+#. translators:
+#: Service.php:117
+msgid ""
+"<strong>An unexpected network error has occurred!</strong> One or more "
+"WordPress plugins tried to call the WordPress REST API, which failed. Most "
+"likely a <strong>security plugin%s</strong>, a web <strong>server "
+"configuration</strong> or active <strong>ad-blocker extension</strong> "
+"installed on your browser disabled the REST API. Please make sure that the "
+"following REST API namespaces are reachable to use your plugin without "
+"problems:"
+msgstr ""
+"<strong>¡Se ha producido un error inesperado en la red!</strong> Uno o más "
+"plugins de WordPress intentaron llamar a la API REST de WordPress, la cual "
+"falló. Lo más probable es que un <strong>plugin de seguridad%s</strong>, una "
+"<strong>configuración del servidor</strong> de la web o una "
+"<strong>extensión de bloqueo de anuncios</strong> activa que esté instalada "
+"en su navegador haya deshabilitado la API REST. Por favor, asegúrese de que "
+"los siguientes espacios de nombres de la API REST son accesibles para "
+"utilizar su plugin sin problemas:"
+
+#. translators:
+#: Service.php:125
+msgid ""
+"What is the WordPress REST API and how to enable it? %1$sLearn more%2$s."
+msgstr ""
+"¿Qué es la API REST de WordPress y cómo activarla? %1$sMás información%2$s."
+
+#: Service.php:128
+msgid "https://devowl.io/knowledge-base/wordpress-rest-api-does-not-respond/"
+msgstr "https://devowl.io/knowledge-base/wordpress-rest-api-does-not-respond/"
+
+#: Service.php:136
+msgid ""
+"In the text box below you will find a technical listing of the last 10 "
+"failed network requests:"
+msgstr ""
+"En el cuadro de texto inferior encontrará un listado técnico de las 10 "
+"últimas solicitudes de red fallidas:"

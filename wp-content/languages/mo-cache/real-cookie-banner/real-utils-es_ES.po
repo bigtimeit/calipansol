@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: n/a\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: n/a\n"
+"PO-Revision-Date: 2023-11-06 12:57+0000\n"
+"Last-Translator: Matthias Günter <matthias.guenter@devowl.io>\n"
+"Language-Team: Spanish (formal) <https://translate.devowl.io/projects/devowl-"
+"wp-real-utils-backend-php/develop/es@formal/>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.1.1\n"
+
+#: cross/CrossRealCategoryLibrary.php:50
+msgid "Do you manage many categories?"
+msgstr "¿Gestiona muchas categorías?"
+
+#: cross/CrossRealCategoryLibrary.php:52
+msgid ""
+"Do you still create your categories this way? Get an explorer-like tree view "
+"directly in your posts/page tables!"
+msgstr ""
+"¿Sigue creando sus categorías de esta forma? ¡Obtenga una vista de árbol "
+"similar a la de su explorador en sus tablas de posts o páginas!"
+
+#: cross/CrossRealCategoryLibrary.php:59
+msgid "Manage product categories/attributes?"
+msgstr "¿Gestionar las categorías/atributos de los productos?"
+
+#: cross/CrossRealCategoryLibrary.php:61
+msgid ""
+"Do you still create your product categories and attributes this way? Get an "
+"explorer-like tree view directly into your WooCommerce products table!"
+msgstr ""
+"¿Sigue creando sus categorías y atributos de productos de esta manera? "
+"¡Obtenga una vista de árbol similar a la de un navegador directamente en la "
+"tabla de productos de su WooCommerce!"
+
+#: cross/CrossRealCategoryLibrary.php:68
+msgid "Paginate without reload?"
+msgstr "¿Quiere paginar sin volver a cargar la página?"
+
+#: cross/CrossRealCategoryLibrary.php:70
+msgid ""
+"Do you want to paginate through your posts and pages without having to "
+"reload the complete page?"
+msgstr ""
+"¿Desea paginar a través de sus posts y páginas sin tener que volver a cargar "
+"la página completa?"
+
+#: cross/CrossRealCategoryLibrary.php:77
+msgid "Assigning much faster?"
+msgstr "¿Quiere asignar más rápido?"
+
+#: cross/CrossRealCategoryLibrary.php:79
+msgid ""
+"You can move or insert a post or page directly into a category without "
+"having to deal with checkboxes."
+msgstr ""
+"Puede mover o insertar un post o una página directamente en una categoría "
+"sin tener que lidiar con casillas de verificación."
+
+#: cross/CrossRealCookieBanner.php:88
+msgid "Is your website GDPR compliant?"
+msgstr "¿Su sitio web cumple con el RGPD?"
+
+#: cross/CrossRealCookieBanner.php:89
+msgid "cookie-banner-frontend.png"
+msgstr "cookie-banner-frontend.png"
+
+#: cross/CrossRealCookieBanner.php:90
+msgid ""
+"Websites targeting EU users and setting non-essential cookies need an opt-in "
+"cookie banner. We recommend Real Cookie Banner as an ePrivacy Policy and "
+"GDPR compliant solution for WordPress."
+msgstr ""
+"Los sitios web dirigidos a usuarios de la UE y que establecen cookies no "
+"esenciales necesitan un banner de cookies de adhesión voluntaria. "
+"Recomendamos Real Cookie Banner como solución para WordPress. Real Cookie "
+"Banner cumple con el ePrivacy y el RGPD."
+
+#: cross/CrossRealCookieBanner.php:94
+msgid "https://devowl.io/go/real-cookie-banner?source=cross-rcb"
+msgstr "https://devowl.io/go/real-cookie-banner?source=cross-rcb"
+
+#: cross/CrossRealMediaLibrary.php:49
+msgid "File finally found?"
+msgstr "¿Ha encontrado ya el archivo?"
+
+#: cross/CrossRealMediaLibrary.php:51
+msgid ""
+"Your WordPress site will certainly continue to grow. Organize your media "
+"library with folders!"
+msgstr ""
+"Su sitio de Wordpress seguirá creciendo. ¡Organice su biblioteca de medios "
+"con carpetas!"
+
+#: cross/CrossRealMediaLibrary.php:58
+msgid "Does it take long to find a file?"
+msgstr "¿Tarda mucho en encontrar un archivo?"
+
+#: cross/CrossRealMediaLibrary.php:60
+msgid ""
+"Inserting media into a post or page can be stressful. Use folders to "
+"organize your media library!"
+msgstr ""
+"Insertar medios en un post o página puede ser estresante. ¡Utilice carpetas "
+"para organizar su biblioteca de medios!"
+
+#: cross/CrossRealPhysicalMedia.php:47 cross/CrossRealPhysicalMedia.php:56
+msgid "Did you know that?"
+msgstr "¿Ya sabía esto?"
+
+#: cross/CrossRealPhysicalMedia.php:49 cross/CrossRealPhysicalMedia.php:58
+msgid ""
+"Your uploads can say more than a thousand words. Unfortunately, search "
+"engines do not understand the content of images, for example. Organize your "
+"uploads directly in meaningful folder names and achieve a better ranking in "
+"search engines!"
+msgstr ""
+"Sus elementos cargados pueden decir más que mil palabras. "
+"Desafortunadamente, los motores de búsqueda no entienden el contenido de las "
+"imágenes, por ejemplo. ¡Organice sus elementos cargados en carpetas con "
+"nombres relevantes y consiga una mejor clasificación en los motores de "
+"búsqueda!"
+
+#: Service.php:162 Service.php:281
+msgid "No such plugin slug available."
+msgstr "No tenemos ese slug del plugin disponible."
+
+#: Service.php:217
+msgid "The abstract implementation for your slug could not be found."
+msgstr "No se ha podido encontrar la implementación abstracta para su slug."
+
+#: Service.php:274
+msgid "You must agree to our privacy policy to continue."
+msgstr "Debe aceptar nuestra política de privacidad para continuar."
+
+#. translators:
+#: view/Options.php:50
+msgid "Products of %s"
+msgstr "Productos de %s"
+
+#. translators:
+#: view/Options.php:72
+msgid ""
+"Show advertising for not yet installed %s products in the WordPress backend"
+msgstr ""
+"Mostrar publicidad de productos %s aún no instalados en el backend de "
+"WordPress"
+
+#: WelcomePage.php:59
+msgid "Learn more about this plugin"
+msgstr "Conocer más sobre este plugin"
+
+#: WelcomePage.php:66 WelcomePage.php:164
+msgid "Support"
+msgstr "Soporte"
+
+#: WelcomePage.php:71 WelcomePage.php:167
+msgid "Rate plugin"
+msgstr "Evalúe el plugin"
+
+#: WelcomePage.php:156
+msgid "Version"
+msgstr "Versión"
+
+#: WelcomePage.php:161
+msgid "Info"
+msgstr "Información"
+
+#: WelcomePage.php:175
+msgid "Key feature"
+msgid_plural "Key features"
+msgstr[0] "Función principal"
+msgstr[1] "Funciones principales"
+
+#: WelcomePage.php:183
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: WelcomePage.php:186
+msgid ""
+"Receive the latest news about devowl.io WordPress plugins directly in your "
+"inbox"
+msgstr ""
+"Reciba las últimas noticias sobre los plugins de devowl.io para WordPress "
+"directamente en su bandeja de entrada"
+
+#: WelcomePage.php:190
+msgid "Enter your email..."
+msgstr "Introduzca su correo electrónico..."
+
+#. translators:
+#: WelcomePage.php:198
+msgctxt "legal-text"
+msgid ""
+"I want to receive WordPress news from devowl.io via email and agree to the "
+"<a %s>privacy policy</a>."
+msgstr ""
+"Deseo recibir las novedades de WordPress de devowl.io por correo electrónico "
+"y acepto la <a %s>política de privacidad</a>."
+
+#: WelcomePage.php:203
+msgid "https://devowl.io/privacy-policy/"
+msgstr "https://devowl.io/privacy-policy/"
+
+#: WelcomePage.php:210
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: WelcomePage.php:284
+msgid "Additional plugins by devowl.io"
+msgstr "Otros plugins de devowl.io"
+
+#: WelcomePage.php:357
+msgid "Available in"
+msgstr "Disponible en"
